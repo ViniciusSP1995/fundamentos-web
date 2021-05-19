@@ -1,0 +1,82 @@
+/*
+Estilos da página index.html
+*/
+
+.p-15 {
+    padding: 15px;
+}
+.introducao {
+    font-size: 20px;
+    margin-bottom: 70px;
+}
+
+.p-img {
+    padding: 50px;
+}
+
+.subtitulo {
+    font-weight: bold;
+}
+
+.curiosidades {
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.center {
+    text-align: center;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#menu li {
+    display: inline;
+    padding: 15px;
+    text-decoration: none;
+}
+
+#menu li a {
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+}
+
+#menu li a:hover {
+    color: grey;
+}
+
+.wh-300 {
+    width: 300px;
+    height: 300px;
+}
+
+.tm-social {
+    width: 50px;
+    height: 50px;
+    padding: 30px;
+}
+
+hr {
+    margin: 0px;
+    padding: 0px;
+}
+
+.mb-50 {
+    margin-bottom: 50px;
+}
+/*
+Estilos da página contato.html
+*/
+
+.ml-50 {
+    margin-left: 50px;
+}
